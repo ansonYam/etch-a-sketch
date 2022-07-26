@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+}
+
+.grid-container {
+    border: 1px solid black;
+    display: grid;
+    height: 960px;
+    padding: 5px;
+    width: 960px;
+}
+
+.grid-item {
+    border: 1px solid black;
+}
